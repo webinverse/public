@@ -1,2 +1,2 @@
 # public
-This is public repository for open share
+This is public repository for open share test
